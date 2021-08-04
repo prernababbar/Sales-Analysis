@@ -17,5 +17,3 @@ Once we have cleaned up our data a bit, we move the data exploration section. In
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
 
-## Notes:
-Guidance by Keith Galli
