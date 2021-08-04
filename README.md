@@ -1,7 +1,7 @@
 # Sales Analysis
 
 ## Introduction:
-Analyze and answer business questions about 12 months worth of sales data, The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
+Analyzed and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
 ## Data Cleaning:
 We start by cleaning our data. Tasks during this section include:
@@ -16,3 +16,6 @@ Once we have cleaned up our data a bit, we move the data exploration section. In
 - What time should we display advertisemens to maximize the likelihood of customer’s buying product?
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
+
+## Notes:
+Guidance by Keith Galli
